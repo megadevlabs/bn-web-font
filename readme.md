@@ -1,7 +1,8 @@
 #installation
+
 Just clone this repo and link `bnfont.min.css` into your project.
 _________________________________________
-example: 
+example:
 `<link rel="stylesheet" href="path_to_folder/bnfont.min.css">`
 
 
@@ -38,7 +39,8 @@ or
 <p class="solaimanlipi"></p>
 ```
 
-
+# Contribution guide
+wanna add your own font or favorite font to this library just send me pull request or write an issue and send your font link I will add this into this repo.
 
 ### Credit
 _________________________________________
